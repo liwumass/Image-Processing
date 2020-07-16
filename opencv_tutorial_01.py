@@ -1,5 +1,5 @@
 # USAGE
-# python opencv_tutorial_01.py
+# !python opencv_tutorial_01.py
 
 # import the necessary packages
 import imutils
