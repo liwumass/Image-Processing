@@ -8,4 +8,5 @@
     - Install imutils on your system
       - I installed imutils package via pip in the same virtual environment as OpenCV on Anaconda.
         $ pip install imutils
+        
 # Count Basic Objects in Images using Contours Project  
